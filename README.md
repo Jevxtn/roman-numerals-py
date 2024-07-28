@@ -12,4 +12,4 @@ This project provides a Python🐍 script to convert between Roman numerals and 
 - Efficient and easy-to-read code
 
 # Sample Output
-
+![Diagram of Conversion Process](images/diagram.png)
